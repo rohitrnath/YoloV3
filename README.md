@@ -77,4 +77,4 @@ After training for 200 Epochs, results look awesome!
 
 ![image](https://github.com/rohitrnath/YoloV3/blob/master/out_out/100.jpg)
 
-Youtube link : https://youtu.be/lsTI_8i8t-U
+Youtube link : https://www.youtube.com/watch?v=QKscLPp_V-o
