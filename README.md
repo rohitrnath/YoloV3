@@ -3,7 +3,7 @@ ________
 YoloV3 Simplified for training on Colab with custom dataset. 
 
 _A Collage of Training images_
-![image](https://github.com/theschoolofai/YoloV3/blob/master/output/train.png)
+![image](https://github.com/rohitrnath/YoloV3/blob/master/out_out/200.jpg)
 
 
 We have added a very 'smal' Coco sample imageset in the folder called smalcoco. This is to make sure you can run it without issues on Colab.
@@ -73,6 +73,8 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 
 
 **Results**
-After training for 300 Epochs, results look awesome!
+After training for 200 Epochs, results look awesome!
 
-![image](https://github.com/theschoolofai/YoloV3/blob/master/output/download.jpeg)
+![image](https://github.com/rohitrnath/YoloV3/blob/master/out_out/100.jpg)
+
+Youtube link : https://youtu.be/lsTI_8i8t-U
