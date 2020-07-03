@@ -1,8 +1,10 @@
-# YoloV3
+# YoloV3 - Olaf Detection
 ________
 YoloV3 Simplified for training on Colab with custom dataset. 
 
 ![image](https://github.com/rohitrnath/YoloV3/blob/master/out_out/200.jpg)
+
+Demo Video : https://www.youtube.com/watch?v=QKscLPp_V-o
 
 
 We have added a very 'smal' Coco sample imageset in the folder called smalcoco. This is to make sure you can run it without issues on Colab.
@@ -75,5 +77,3 @@ As you can see in the collage image above, a lot is going on, and if you are cre
 After training for 200 Epochs, results look awesome!
 
 ![image](https://github.com/rohitrnath/YoloV3/blob/master/out_out/100.jpg)
-
-Youtube link : https://www.youtube.com/watch?v=QKscLPp_V-o
